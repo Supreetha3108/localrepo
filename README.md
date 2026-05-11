@@ -1,1 +1,1 @@
-#this is suthor by supreetha 
+#this is author by supreetha 
