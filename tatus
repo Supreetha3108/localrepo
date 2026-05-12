@@ -1,0 +1,21 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex d410e52..7b87bbd 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1 @@[m
+[31m-#this is suthor by supreetha [m
+\ No newline at end of file[m
+[32m+[m[32m# this is author by supreetha[m[41m [m
+\ No newline at end of file[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex c100775..74f2459 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -7,6 +7,7 @@[m
+     <link rel="stylesheet" href="style.css">[m
+ </head>[m
+ <body>[m
+[32m+[m[32m    <p>This is a new feature</p>[m
+     <div class="container">[m
+         <div class="calculator">[m
+             <h1>Calculator</h1>[m
